@@ -1,7 +1,7 @@
 # Simple Python program
 
 # Print a welcome message
-print("Hello, World!")
+print("Hello!")
 
 # Ask for user input
 name = input("What is your name? ")
